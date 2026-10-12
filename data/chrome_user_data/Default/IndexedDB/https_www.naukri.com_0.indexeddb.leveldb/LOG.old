@@ -1,0 +1,24 @@
+2026/10/12-15:03:06.394 22574 Reusing MANIFEST C:\Users\HirdikGulati\.gemini\antigravity\scratch\naukri_auto_apply\data\chrome_user_data\Default\IndexedDB\https_www.naukri.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/12-15:03:06.395 22574 Recovering log #38
+2026/10/12-15:03:06.401 22574 Reusing old log C:\Users\HirdikGulati\.gemini\antigravity\scratch\naukri_auto_apply\data\chrome_user_data\Default\IndexedDB\https_www.naukri.com_0.indexeddb.leveldb/000038.log 
+2026/10/12-15:05:04.923 4c6c Level-0 table #43: started
+2026/10/12-15:05:04.957 4c6c Level-0 table #43: 1523646 bytes OK
+2026/10/12-15:05:04.966 4c6c Delete type=0 #38
+2026/10/12-15:05:42.385 4c6c Compacting 1@1 + 1@2 files
+2026/10/12-15:05:42.396 4c6c Generated table #44@1: 185 keys, 80415 bytes
+2026/10/12-15:05:42.396 4c6c Compacted 1@1 + 1@2 files => 80415 bytes
+2026/10/12-15:05:42.401 4c6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/12-15:05:42.401 4c6c Delete type=2 #40
+2026/10/12-15:05:42.401 4c6c Delete type=2 #43
+2026/10/12-15:08:54.544 4c6c Level-0 table #46: started
+2026/10/12-15:08:54.591 4c6c Level-0 table #46: 1500662 bytes OK
+2026/10/12-15:08:54.594 4c6c Delete type=0 #42
+2026/10/12-15:09:33.286 259c Compacting 1@1 + 1@2 files
+2026/10/12-15:09:33.297 259c Generated table #47@1: 185 keys, 73071 bytes
+2026/10/12-15:09:33.297 259c Compacted 1@1 + 1@2 files => 73071 bytes
+2026/10/12-15:09:33.299 259c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/12-15:09:33.299 259c Delete type=2 #44
+2026/10/12-15:09:33.299 259c Delete type=2 #46
+2026/10/12-15:11:37.548 4c6c Level-0 table #49: started
+2026/10/12-15:11:37.714 4c6c Level-0 table #49: 1531614 bytes OK
+2026/10/12-15:11:37.719 4c6c Delete type=0 #45

@@ -1,0 +1,87 @@
+{
+    "candidate": {
+        "full_name": "Hridik Gulati",
+        "email": "hridikgulati04@gmail.com",
+        "phone": "+91 8851891548",
+        "current_location": "New Delhi",
+        "preferred_locations": [
+            "New Delhi",
+            "Delhi / NCR",
+            "Noida",
+            "Gurgaon",
+            "Bangalore",
+            "Hyderabad",
+            "Remote",
+            "Hybrid"
+        ],
+        "willing_to_relocate": true,
+        "total_experience_years": 3.2,
+        "current_job_title": "Full Stack Developer",
+        "current_company": "Sumitomo Chemical India Ltd",
+        "current_ctc_lpa": 12.0,
+        "expected_ctc_lpa": 18.0,
+        "notice_period_days": 30,
+        "highest_education": {
+            "degree": "B.Tech",
+            "branch": "Computer Science & Engineering",
+            "institution": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+            "graduation_year": 2023,
+            "percentage_or_cgpa": "88%"
+        },
+        "gender": "Male",
+        "skills_experience": {
+            "python": 3.2,
+            "django": 3.2,
+            "rest api": 3.2,
+            "flutter": 2.0,
+            "mobile app development": 2.0,
+            "react": 2.0,
+            "react.js": 2.0,
+            "javascript": 2.5,
+            "postgresql": 3.0,
+            "sql": 3.0,
+            "mysql": 2.5,
+            "aws": 2.0,
+            "scada": 1.5,
+            "spring boot": 1.0,
+            "docker": 1.5,
+            "git": 3.2,
+            "c++": 2.0,
+            "c": 2.0,
+            "firebase": 2.0
+        },
+        "professional_summary": "Results-oriented Full Stack Developer with 3+ years of experience building scalable web and mobile applications. Expert in Python/Django and Flutter with strong skills in API integration, geospatial tracking, industrial automation, and Digital SCADA platforms. Known for delivering user-focused, cloud-hosted solutions that improve operational efficiency."
+    },
+    "search_preferences": {
+        "roles": [
+            "Full Stack Developer",
+            "Python Developer",
+            "Django Developer",
+            "Backend Developer",
+            "Flutter Developer",
+            "Software Engineer"
+        ],
+        "locations": [
+            "Delhi / NCR",
+            "Bangalore",
+            "Hyderabad",
+            "Remote"
+        ],
+        "min_experience_years": 1,
+        "max_experience_years": 4,
+        "max_applications_per_run": 25,
+        "skip_company_reviews_under": 3.0,
+        "company_blacklist": [
+            "CyberCoders",
+            "HCL Training",
+            "Staffing Solutions"
+        ]
+    },
+    "bot_settings": {
+        "headless": false,
+        "slow_mo_ms": 150,
+        "min_human_delay_seconds": 2.5,
+        "max_human_delay_seconds": 5.0,
+        "dry_run": false
+    }
+}

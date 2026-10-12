@@ -1,0 +1,20 @@
+2026/10/12-15:03:04.269 2336c Reusing MANIFEST C:\Users\HirdikGulati\.gemini\antigravity\scratch\naukri_auto_apply\data\chrome_user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/12-15:03:04.272 2336c Recovering log #21
+2026/10/12-15:03:04.274 2336c Level-0 table #24: started
+2026/10/12-15:03:04.287 2336c Level-0 table #24: 13042 bytes OK
+2026/10/12-15:03:04.300 2336c Delete type=0 #21
+2026/10/12-15:04:04.333 10dc0 Level-0 table #27: started
+2026/10/12-15:04:04.339 10dc0 Level-0 table #27: 108546 bytes OK
+2026/10/12-15:04:04.341 10dc0 Delete type=0 #25
+2026/10/12-15:04:04.342 2336c Compacting 4@0 + 1@1 files
+2026/10/12-15:04:04.353 2336c Generated table #28@0: 31 keys, 308153 bytes
+2026/10/12-15:04:04.353 2336c Compacted 4@0 + 1@1 files => 308153 bytes
+2026/10/12-15:04:04.354 2336c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/12-15:04:04.355 2336c Delete type=2 #18
+2026/10/12-15:04:04.355 2336c Delete type=2 #20
+2026/10/12-15:04:04.355 2336c Delete type=2 #22
+2026/10/12-15:04:04.355 2336c Delete type=2 #24
+2026/10/12-15:04:04.355 2336c Delete type=2 #27
+2026/10/12-15:08:22.151 10dc0 Level-0 table #30: started
+2026/10/12-15:08:22.167 10dc0 Level-0 table #30: 214865 bytes OK
+2026/10/12-15:08:22.185 10dc0 Delete type=0 #26

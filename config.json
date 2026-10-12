@@ -1,0 +1,100 @@
+{
+    "candidate": {
+        "full_name": "Hridik Gulati",
+        "email": "hridikgulati04@gmail.com",
+        "phone": "+91 8851891548",
+        "current_location": "New Delhi",
+        "preferred_locations": [
+            "New Delhi",
+            "Delhi / NCR",
+            "Noida",
+            "Gurgaon",
+            "Bangalore",
+            "Hyderabad",
+            "Remote",
+            "Hybrid"
+        ],
+        "willing_to_relocate": true,
+        "total_experience_years": 3.5,
+        "current_job_title": "Full Stack Developer",
+        "current_company": "Sumitomo Chemical India Ltd",
+        "current_ctc_lpa": 6.5,
+        "expected_ctc_lpa": 10.0,
+        "has_offer_in_hand": true,
+        "offer_in_hand_ctc_lpa": 9.0,
+        "notice_period_days": 30,
+        "highest_education": {
+            "degree": "B.Tech",
+            "branch": "Computer Science & Engineering",
+            "institution": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+            "graduation_year": 2023,
+            "percentage_or_cgpa": "88%"
+        },
+        "gender": "Male",
+        "skills_experience": {
+            "python": 3.5,
+            "django": 3.5,
+            "rest api": 3.5,
+            "flutter": 2.0,
+            "mobile app development": 2.0,
+            "react": 2.0,
+            "react.js": 2.0,
+            "javascript": 2.5,
+            "postgresql": 3.5,
+            "sql": 3.5,
+            "mysql": 2.5,
+            "aws": 2.0,
+            "scada": 1.5,
+            "plc": 1.5,
+            "spring boot": 1.0,
+            "docker": 1.5,
+            "nginx": 1.5,
+            "git": 3.2,
+            "c++": 2.0,
+            "c": 2.0,
+            "firebase": 2.0
+        },
+        "professional_summary": "Results-oriented Full Stack Developer with 3+ years of experience building scalable web and mobile applications. Expert in Python/Django and Flutter with strong skills in API integration, geospatial tracking, industrial automation, and Digital SCADA platforms. Known for delivering user-focused, cloud-hosted solutions that improve operational efficiency."
+    },
+    "search_preferences": {
+        "roles": [
+            "Full Stack Developer",
+            "Python Developer",
+            "Django Developer",
+            "Backend Developer",
+            "Backend Engineer",
+            "Software Development Engineer",
+            "SDE",
+            "Flutter Developer",
+            "Mobile Application Developer",
+            "React Developer",
+            "Python Backend Developer",
+            "REST API Developer",
+            "Full Stack Engineer"
+        ],
+        "locations": [
+            "Delhi / NCR",
+            "Bangalore",
+            "Hyderabad",
+            "Remote",
+            "Noida",
+            "Gurgaon"
+        ],
+        "min_experience_years": 2,
+        "max_experience_years": 4,
+        "max_applications_per_run": 50,
+        "skip_company_reviews_under": 3.0,
+        "company_blacklist": [
+            "CyberCoders",
+            "HCL Training",
+            "Staffing Solutions"
+        ]
+    },
+    "bot_settings": {
+        "headless": true,
+        "slow_mo_ms": 150,
+        "min_human_delay_seconds": 2.5,
+        "max_human_delay_seconds": 5.0,
+        "dry_run": false
+    }
+}
